@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RalphA17
+- 👋 Hi, My name is Ralph. I am considered a Junior Developer. 
 - 👀 I’m interested in looking for a job as a Front-End Developer. 
 - 🌱 I’m currently learning React and making my own Portfolio. 
 - 💞️ I’m looking to collaborate on projects that involve HTML, JS, JavaScript or C#.
