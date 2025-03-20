@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RalphA17
-- 👀 I’m interested in looking for a job as a developer
-- 🌱 I’m currently learning GitHub
-- 💞️ I’m looking to collaborate on projects that involve HTML, JS, or C#.
-- 📫 How to reach me, contact me through email. My email is RalphAyala17@outlook.com.
+- 👀 I’m interested in looking for a job as a Front-End Developer. 
+- 🌱 I’m currently learning React and making my own Portfolio. 
+- 💞️ I’m looking to collaborate on projects that involve HTML, JS, JavaScript or C#.
+- 📫 How to reach me, contact me through email. My email is: RalphAyala17@outlook.com.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to workout 3-4 days a week. Split routine. 
 
