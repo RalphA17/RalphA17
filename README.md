@@ -5,7 +5,7 @@
 - 📫 You can contact me through email, my email is: RalphAyala17@outlook.com.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to workout 3-4 days a week. Split routine.
-- Website: https://ralph-portfolio.tiiny.site/
+- Website: https://rayaladev.netlify.app/
   
 
 <!---
