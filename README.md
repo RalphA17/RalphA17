@@ -1,12 +1,20 @@
-- 👋 Hi, My name is Ralph. I am considered a Junior Developer. 
-- 👀 I’m interested in looking for a job as a Front-End Developer. 
-- 🌱 I’m currently learning React and making my own Portfolio. 
-- 💞️ I’m looking to collaborate on projects that involve HTML, JS, JavaScript or C#.
-- 📫 You can contact me through email, my email is: RalphAyala17@outlook.com.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like to workout 3-4 days a week. Split routine.
-- Website: https://ralph-dev.netlify.app/
-  
+# Nice to meet you 😃
+
+My name is [Ralph Ayala Jr](https://ralph-dev.netlify.app/), and I am a software engineer in New York City. 
+
+I graduated New York City College of Technology with a Bachlor's Degree in Software Development. 
+
+I chose programming because I enjoy the aspect of building new things and the satisfaction of accomplishing a difficult task.  
+
+My main languages are **HTML**, and **CSS**. I am currently strengthing my back-end knownledge. The tools I use are **VS Code**, **Postman**, and **Node.js**. 
+
+My favorite note taking application is Notion. Love how easy it is and simple I can orgainze my notes especally on GitHub. 
+
+My goals for this year: 
+
+- [ ] Find a full time job in software engineering. 
+- [ ] Post projects here on GitHub. Regardless if these projects are big or small. 
+
 
 <!---
 RalphA17/RalphA17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
