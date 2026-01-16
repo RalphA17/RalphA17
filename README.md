@@ -1,19 +1,20 @@
 # Nice to meet you 😃
 
-My name is [Ralph Ayala Jr](https://ralph-dev.netlify.app/), and I am a software engineer in New York City. 
+My name is [Ralph Ayala Jr](https://ralph-dev.netlify.app/), and I am a software engineer based in New York City.
 
-I graduated New York City College of Technology with a Bachlor's Degree in Software Development. 
+I graduated from New York City College of Technology with a Bachelor’s degree in Software Development.
 
-I chose programming because I enjoy the aspect of building new things and the satisfaction of accomplishing a difficult task.  
+I chose programming because I enjoy building new things and the sense of accomplishment that comes from solving difficult problems.
 
-My main languages are **HTML**, and **CSS**. I am currently strengthing my back-end knownledge. The tools I use are **VS Code**, **Postman**, and **Node.js**. 
+My main languages are HTML and CSS, and I am currently strengthening my back-end knowledge. The tools I use include VS Code, Postman, and Node.js.
 
-My favorite note taking application is Notion. Love how easy it is and simple I can orgainze my notes especally on GitHub. 
+My favorite note-taking application is Notion. I love how simple and easy it is to organize my notes, especially for GitHub-related work.
 
-My goals for this year: 
+My goals for this year:
 
-- [ ] Find a full time job in software engineering. 
-- [ ] Post projects here on GitHub. Regardless if these projects are big or small. 
+- [ ] Find a full-time job in software engineering
+
+- [ ] Consistently post projects here on GitHub, whether big or small
 
 
 <!---
