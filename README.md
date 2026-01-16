@@ -6,7 +6,7 @@ I graduated from New York City College of Technology with a Bachelor’s degree 
 
 I chose programming because I enjoy building new things and the sense of accomplishment that comes from solving difficult problems.
 
-My main languages are HTML and CSS, and I am currently strengthening my back-end knowledge. The tools I use include VS Code, Postman, and Node.js.
+My main languages are **HTML** and **CSS**, and I am currently strengthening my back-end knowledge. The tools I use include VS Code, Postman, and Node.js.
 
 My favorite note-taking application is Notion. I love how simple and easy it is to organize my notes, especially for GitHub-related work.
 
